@@ -16,5 +16,5 @@ $ yarn install
 
 4. 起動する
 ```
-$ expo start
+$ yarn start
 ```
